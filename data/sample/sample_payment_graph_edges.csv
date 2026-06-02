@@ -1,0 +1,9 @@
+source,target,relationship
+ACCT-100,RECIP-900,pays
+ACCT-101,RECIP-900,pays
+ACCT-102,RECIP-900,pays
+RECIP-900,ACCT-700,disperses_to
+RECIP-900,ACCT-701,disperses_to
+ACCT-101,DEVICE-55,uses_device
+ACCT-102,DEVICE-55,uses_device
+ACCT-100,IP-88,uses_ip

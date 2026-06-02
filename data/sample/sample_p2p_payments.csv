@@ -1,0 +1,6 @@
+payment_id,payment_amount,amount_deviation_score,payments_1h,recipient_age_days,recipient_risk_score,auth_failure_count,device_risk_score,proxy_risk_score,behavioral_anomaly_score,typing_cadence_deviation,touch_gesture_anomaly,navigation_anomaly_score,mule_network_risk_score,rapid_dispersal_score,graph_community_risk_score,fraud_label
+P2P-1001,45.0,0.1,1,365,0.08,0,0.1,0.05,0.12,0.1,0.09,0.11,0.08,0.05,0.1,0
+P2P-1002,2500.0,0.88,8,1,0.82,3,0.86,0.79,0.84,0.78,0.82,0.8,0.91,0.88,0.9,1
+P2P-1003,72.5,0.15,1,120,0.12,0,0.08,0.1,0.14,0.13,0.11,0.12,0.1,0.09,0.13,0
+P2P-1004,1800.0,0.79,6,0,0.78,2,0.81,0.76,0.8,0.75,0.77,0.83,0.87,0.82,0.86,1
+P2P-1005,25.0,0.08,1,90,0.1,0,0.12,0.07,0.09,0.08,0.1,0.09,0.06,0.05,0.08,0
